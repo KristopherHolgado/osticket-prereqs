@@ -111,9 +111,8 @@ Enable: php_intl.dll
 Enable: php_opcache.dll
 Refresh the osTicket site in your browse, observe the changes
 
-</p>
-![image](https://github.com/user-attachments/assets/77f26ee9-28f6-43f3-a7d4-42d70edb7167)
-</p>
+![image](https://github.com/user-attachments/assets/9ab22975-e918-4da3-92a7-66c38afbab7e)
+
 
 
 Rename: ost-config.php
