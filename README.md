@@ -125,9 +125,8 @@ Continue Setting up osTicket in the browser (click Continue)
 Name Helpdesk
 Default email (receives email from customers)
 
-</p>
-![image](https://github.com/user-attachments/assets/1c44df62-200b-4f1f-ab4e-3c01689d77c3)
-</p>
+![image](https://github.com/user-attachments/assets/a055a6ea-1105-4081-b950-dbfc4d9ebeb2)
+
 
 
 Download and install HeidiSQL.
