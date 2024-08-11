@@ -80,7 +80,8 @@ Standard Configuration ->
 
 </p>
 Run IIS as Admin to gain full access to all IIS settings, allowing to configure application pools, sites, bindings, and other important settings needed for osTicket.
-![image](https://github.com/user-attachments/assets/dfdf8aae-6f69-4524-bde2-3994223eb4e4)
+
+![image](https://github.com/user-attachments/assets/526333ce-b44d-41d5-b051-895896ae3d8c)
 </p>
 
 
