@@ -34,5 +34,5 @@ When you run IIS Manager as an administrator, you gain full access to all IIS se
 </p>
 <br />
 
-<p>![image](https://github.com/user-attachments/assets/918a7c12-ed1b-46be-8a85-a623ee2ba2c5)
+![image](https://github.com/user-attachments/assets/918a7c12-ed1b-46be-8a85-a623ee2ba2c5)
 Once the download is complete, you will be automatically redirected to the osTicket opening page.
