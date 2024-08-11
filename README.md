@@ -79,10 +79,10 @@ Standard Configuration ->
 
 
 </p>
-When you run IIS Manager as an administrator, you gain full access to all IIS settings, allowing you to configure application pools, sites, bindings, and other important settings needed for osTicket.
+Run IIS as Admin to gain full access to all IIS settings, allowing to configure application pools, sites, bindings, and other important settings needed for osTicket.
+![image](https://github.com/user-attachments/assets/dfdf8aae-6f69-4524-bde2-3994223eb4e4)
 </p>
-![image](https://github.com/user-attachments/assets/c6062b0c-0607-4279-8773-256a713470aa)
-</p>
+
 
 
 Register PHP from within IIS
